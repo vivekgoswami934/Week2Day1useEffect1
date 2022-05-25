@@ -1,0 +1,36 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Todotext 1",
+      "isCompleted": true
+    },
+    {
+      "id": 2,
+      "text": "Todo 2",
+      "isCompleted": true
+    },
+    {
+      "id": 3,
+      "text": "Todo 3",
+      "isCompleted": true
+    },
+    {
+      "isCompleted": false,
+      "id": 4
+    },
+    {
+      "isCompleted": false,
+      "id": 5
+    },
+    {
+      "isCompleted": false,
+      "id": 6
+    },
+    {
+      "text": "fbdzf",
+      "isCompleted": false,
+      "id": 7
+    }
+  ]
+}
